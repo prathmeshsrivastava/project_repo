@@ -1,2 +1,2 @@
 # project_repo
-To see my project visit https://prathmeshsrivastava.me/
+To see my project visit https://github.com/prathmeshsrivastava/prathmeshsrivastava
